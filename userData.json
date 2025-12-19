@@ -1,0 +1,5 @@
+[{"role":"User","name":"Bob","username":"user2","password":"bob1"},
+{"role":"User","name":"Jill","username":"user3","password":"jill1"},
+{"role":"User","name":"James","username":"User3","password":"James1"},
+{"role":"Admin","name":"Jane","username":"User2","password":"Jane1"},
+{"role":"Admin","name":"bob","username":"user2","password":"user234"}]
